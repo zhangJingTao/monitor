@@ -112,7 +112,7 @@
                 <dependency>
                         <groupId>org.snmp4j</groupId>
                         <artifactId>snmp4j</artifactId>
-                        <version>1.10.1</version>
+                        <version>2.8.2</version>
                 </dependency>
 
                 <!-- http://mvnrepository.com/artifact/org.aspectj/aspectjrt -->
@@ -201,7 +201,7 @@
                 <dependency>
                         <groupId>org.quartz-scheduler</groupId>
                         <artifactId>quartz</artifactId>
-                        <version>2.2.1</version>
+                        <version>2.3.0</version>
                 </dependency>
 
                 <!-- http://mvnrepository.com/artifact/org.mybatis/mybatis-spring -->
@@ -294,7 +294,7 @@
                 <dependency>
                    <groupId>org.elasticsearch.client</groupId>
                    <artifactId>transport</artifactId>
-                   <version>5.2.2</version>
+                   <version>6.0.0</version>
                 </dependency>
 
                 <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-email -->
