@@ -11,7 +11,7 @@
 
         <properties>
                 <!--spring-->
-                <spring.version>4.3.0.RELEASE</spring.version>
+                <spring.version>5.3.34</spring.version>
                 <!-- spring controller return object auto format to json support -->
                 <jackson.version>2.5.4</jackson.version>
                 <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
@@ -294,7 +294,7 @@
                 <dependency>
                    <groupId>org.elasticsearch.client</groupId>
                    <artifactId>transport</artifactId>
-                   <version>5.2.2</version>
+                   <version>7.17.8</version>
                 </dependency>
 
                 <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-email -->
