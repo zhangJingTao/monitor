@@ -21,29 +21,6 @@
 (async function () {
 
     'use strict';
-// ==UserScript==
-
-// @name         创客汇自动审批
-
-// @namespace    http://tampermonkey.net/
-
-// @version      0.7
-
-// @description  网络慢的时候，增加缓慢模式
-
-// @author       You
-
-// @match        https://p.rrswl.com
-
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-
-// @grant        none
-
-// ==/UserScript==
-
-(async function () {
-
-    'use strict';
 
     /**
 
