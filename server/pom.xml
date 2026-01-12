@@ -21,7 +21,7 @@
                 <logback.version>1.1.2</logback.version>
                 <!--log end-->
                 <servlet.version>3.1.0</servlet.version>
-                <fastjson.version>1.2.7</fastjson.version>
+                <fastjson.version>1.2.48</fastjson.version>
                 <!--validator-->
                 <validator.version>4.3.2.Final</validator.version>
                 <!--validator end-->
